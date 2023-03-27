@@ -1,4 +1,4 @@
-# Reverb_EEG
+# EEG_Reverb
 
 This repository documents a study that explores the impact of reverberation on the brain's ability to differentiate and focus on a target voice that is masked by another speaker, and the effectiveness of pitch and location differences between two voices as cues for speech separation in reverberant conditions. The repository contains the methods used for creating stimuli, which consist of one-minute excerpts from audiobooks narrated by a female voice, along with different excerpts spoken by a male voice as masks. The primary goal of the code is to establish the necessary experimental conditions by incorporating reverberation through the image source method, adjusting the pitches of the voices, and utilizing head-related transfer functions to produce the perception of spatial effects.
 
@@ -34,4 +34,3 @@ This repository documents a study that explores the impact of reverberation on t
  ### Generating head related transfer functions for adding reverb and spatialization
  
  -
-# Reverb_EEG
