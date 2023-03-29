@@ -2,7 +2,7 @@ function condition = make_condition(diff_pitch, diff_loc, reverb, part_f, part_m
     
     % function that makes a complete stimulus, consisting of female and
     % male voice
-    % git test
+    % 
     %   DIFF_PITCH: true for easy condition, false for hard condition
     %     DIFF_LOC: true for easy condition, false for hard condition
     %       REVERB: true for easy condition, false for hard condition
