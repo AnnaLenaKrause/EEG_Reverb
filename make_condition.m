@@ -1,4 +1,4 @@
-function condition = make_condition(diff_pitch, diff_loc, reverb, part_f, part_m, pl_min, dir_f, dir_m)
+äßfunction condition = make_condition(diff_pitch, diff_loc, reverb, part_f, part_m, pl_min, dir_f, dir_m)
     
     % function that makes a complete stimulus, consisting of female and
     % male voice
