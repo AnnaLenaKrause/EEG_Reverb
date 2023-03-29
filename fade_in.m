@@ -1,6 +1,7 @@
 function array = fade_in(sound, fs, fade_start, fade_end)
 
 % function that makes a sound fade in
+% GIT TEST
 %
 %      SOUND: array with sound, 1-dim
 %         FS: sampling frequency
