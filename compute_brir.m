@@ -54,7 +54,7 @@ WallYZ = Ly*Lz;
 WallXY = Lx*Ly;
 S = WallYZ*(A(:,1)+A(:,2))+WallXZ.*(A(:,3)+A(:,4))+WallXY.*(A(:,5)+A(:,6));
 c  = 343; % Speed of sound (m/s)
-RT60 = (55.25/c)*V./S
+RT60 = (55.25/c)*V./S;
 
 for i = [10 4]
   A_temp = A*0.1*i;
